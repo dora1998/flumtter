@@ -1,3 +1,5 @@
+require "flumtter/app/core/windows/buf_window"
+
 module Flumtter
   module Window
     class MentionBuf < Buf::Buf
